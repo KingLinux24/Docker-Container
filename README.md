@@ -7,9 +7,8 @@ This repository contains my solutions for **Assignment 3: Docker-Container**
 for the course *Cloud Computing* (Semester V, B.Tech CSE Cyber-Security).  
 
 ---
-````
 ## Task 1: Pull the Alpine image from Docker Hub
-```bash
+````bash
 docker pull alpine
 docker images
 ````
